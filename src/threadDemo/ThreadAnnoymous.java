@@ -22,6 +22,7 @@ public class ThreadAnnoymous {
 		});
 		
 		thread.start();
+	// thread comment
 		thread.start();
 	}
 
