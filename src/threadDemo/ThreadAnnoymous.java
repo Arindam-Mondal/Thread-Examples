@@ -23,7 +23,7 @@ public class ThreadAnnoymous {
 
 		//First thread started
 		thread.start();
-	// thread comment for second thread
+	// thread comment for second
 
 	// hello world	
 		thread.start();
