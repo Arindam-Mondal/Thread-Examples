@@ -20,9 +20,15 @@ public class ThreadAnnoymous {
 			}
 			
 		});
+
 		//First thread started
 		thread.start();
 	// thread comment for second thread
+
+	// hello world	
+		thread.start();
+	// thread comment second
+
 		thread.start();
 	}
 
